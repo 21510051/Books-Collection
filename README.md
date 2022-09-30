@@ -19,11 +19,11 @@ This repository contains free books on different programming languages, Concepts
  
     "id" : "2",
     
-    "bookName" : "C Internals",
+    "bookName" : "Coding",
     
-    "authorName" : "Rajeev Kumar",
+    "authorName" : "Sanika Garud",
     
-    "bookLink"   : "https://www.avabodh.com/cin/cin.html"
+    "bookLink"   : "https://www.sanika.com/cin/cin.html"
     
      }
    
